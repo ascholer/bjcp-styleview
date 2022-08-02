@@ -46,7 +46,14 @@ function setStyle(style) {
                   'entryinstructions'];
 
   for(let attr of attrList) {
-    document.getElementById(attr).innerText = style[attr];
+    console.log(style[attr])
+    if(style[attr] === undefined) {
+      $('#'+attr).parent().hide();
+    }
+    else {
+      $('#'+attr).parent().show();
+      document.getElementById(attr).innerText = style[attr];
+    }
   }
   
   document.getElementById("ogbar").replaceChildren(createBar("rangebar", 1.000, 1.1150, style.ogmin, style.ogmax));
