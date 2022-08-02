@@ -4,7 +4,7 @@ This is a webapp designed for study and quick reference of the 2021 [Beer Judge 
 
 If you ended up here while looking for the app, please go to https://ascholer.github.io/bjcp-styleview/
 
-Style data is contained in [styles.json](styles.json).
+Style data is contained in [styles.json](styles.json). It is the result of running the PDF guidelines through a PDF --> markdown converter and then parsing that into json. There are likely some small issues due to that translation process.
 
 ## Copyright
 
