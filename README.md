@@ -1,6 +1,8 @@
 # BJCP 2021 Style Viewer
 
-This is a webapp designed for study and quick reference of the 2021 Beer Judge Certification Program (BJCP) style guidelines [http://bjcp.org/stylecenter.php](https://www.bjcp.org/bjcp-style-guidelines/)
+This is a webapp designed for study and quick reference of the 2021 [Beer Judge Certification Program (BJCP) style guidelines](https://www.bjcp.org/bjcp-style-guidelines/).
+
+If you ended up here while looking for the app, please go to https://ascholer.github.io/bjcp-styleview/
 
 Style data is contained in [styles.json](styles.json).
 
