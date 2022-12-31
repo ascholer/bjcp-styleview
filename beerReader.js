@@ -1,7 +1,5 @@
 let styles = {};
-let styleStyle =  [];
-let compStyle = [];
-	
+
 //Helper for typeahead
 var substringMatcher = function(strs) {
   return function findMatches(q, cb) {
@@ -55,7 +53,6 @@ function setStyle(style) {
     else {
       $('#'+attr).parent().show();
       document.getElementById(attr).innerText = style[attr];
-	  styleStyle = style;
     }
   }
   
@@ -98,25 +95,21 @@ function setComp(style) {
   srmbar.style.backgroundImage = `linear-gradient(to right, ${getSRMColor(style.srmmin)}, ${getSRMColor(style.srmmax)})`;
   document.getElementById("srmbarComp").replaceChildren(srmbar);
   
-  compStyle = style;
-  
+  document.getElementById("compSwap").classList.remove("d-none");
   updateHash();
 }
 
 function swapComp(){
-	let styleElement = document.getElementById("styleSelector");
-	let compElement = document.getElementById("compSelector");
-	let styleName = styleElement.value;
-	
-	tempStyleStyle= styleStyle;
-	styleStyle = compStyle;
-	compStyle = tempStyleStyle;
-	
-	setStyle(styleStyle);
-	setComp(compStyle);
-	
-	document.getElementById("styleSelector").value = styleStyle.name;
-	document.getElementById("compSelector").value = compStyle.name;	
+  let styleElement = document.getElementById("styleSelector");
+  let compElement = document.getElementById("compSelector");
+  let styleName = styleElement.value;
+  let compName = compElement.value;
+
+  styleElement.value = compName;
+  compElement.value = styleName;
+
+  setStyle(styles[compName]);
+  setComp(styles[styleName]);
 }
 
 //Makes a div representing a range
@@ -223,12 +216,13 @@ fetch("styles.json")
     }).bind('keyup', (ev) => {
       if(ev.key === "Enter" && $('#compSelector').val().trim() === "") {
         $('#compSelector').blur();
+        $('#compSwap').hide();
         clearComp();
       }
     });
-	
+
     document.getElementById("compSwap").addEventListener("click",swapComp);
-	
+
     let hash = decodeURI(window.location.hash);
     if(hash.trim() !== "") {
       const re = /style=(?<style>[\w ]*)(&comp=(?<comp>[\w ]*))?/;

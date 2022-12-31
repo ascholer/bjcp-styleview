@@ -54,6 +54,10 @@
       color: #888;
     }
 
+    #compSwap .btn {
+      font-size: 90%;
+    }
+
     body {
       position: relative;
       min-height: 100vh;
@@ -87,8 +91,8 @@
       <label for="compSelector">Compare To:</label>
       <input class="typeahead form-control w-100" type="text" id="compSelector" placeholder="Style name or blank">
     </div>
-    <div id=compSwap>
-      <a role="button">Swap Styles</a>
+    <div id="compSwap" class="d-none">
+      <button type="button" class="btn btn-light border border-secondary p-1 py-0">Swap Styles</button>
     </div>
     <div class="descript-group"><label for="ibumin">IBU:</label> <span id="ibumin"> </span>-<span
         id="ibumax"> </span>
