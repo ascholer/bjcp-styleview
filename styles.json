@@ -38,6 +38,9 @@
     "mouthfeel": "Same as the base beer, although many additional grains (e.g., oats, rye) increase body and viscosity, while some (e.g., GF grains) create a thinner beer.",
     "comments": "The additional grain should be apparent somewhere in the sensory profile. If the alternative grain does not provide a noticeable distinguishable character to the beer, enter it as the base style. This style should not be used for styles where the alternative grain is fundamental to the style definition (e.g., Rye IPA, Oatmeal Stout, Rice- or Corn-based International Lager). Note that sake is not beer, and is not intended for this category.",
     "entryinstructions": "The entrant must specify the type of alternative grain used. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Blue/Point Rastafarye Ale, Green's India Pale Ale, Lakefront New Grist, New Planet Pale Ale, Rogue Morimoto Soba Ale, Voodoo Swimming Jeans",
     "tags": "specialty-beer"
   },
@@ -53,6 +56,9 @@
     "mouthfeel": "Same as the base beer, although depending on the type of sugar added, could increase or decrease the body.",
     "comments": "The additional sugar should be apparent somewhere in the sensory profile. If the sugars do not add a distinguishable character to the beer, enter it in the base style category. A honey-based beer should not have so much honey that it is perceived more like a mead with beer (i.e., a braggot) than a honey beer. This style should not be used for styles where the alternative sugar is fundamental to the style definition, or where a small amount of neutral-flavored sugar is used simply to increase gravity, increase attenuation, or lighten flavor or body; those beers should be entered as the normal base style.",
     "entryinstructions": "The entrant must specify the type of sugar used. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Bell's Hopslam, Cervejaria Colorado Appia, Fifth Hammer Break of Jawn, Groundswell Piloncillo, Long Trail Harvest, New Glarus Cabin Fever",
     "tags": "specialty-beer"
   },
@@ -393,6 +399,8 @@
     "comments": "Using the sensory profile of products that suggest the harvest season, like pumpkin pie, apple pie, or candied yams, balanced with a supportive, often malty base beer. The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors.",
     "characteristicingredients": "Spices are required, and often include those evocative of the fall, harvest, or Thanksgiving season (e.g., allspice, nutmeg, cinnamon, cloves, ginger) but any combination is possible and creativity is encouraged. Flavorful adjuncts are common (e.g., molasses, invert sugar, brown sugar, honey, maple syrup). Squash-type or gourd-type vegetables (most frequently pumpkin) are often used.",
     "entryinstructions": "The entrant must specify the type of spices, herbs, or vegetables used; individual ingredients do not need to be specified if a well-known blend of spices is used (e.g., pumpkin pie spice). Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Dogfish Head Punkin Ale, Elysian Punkuccino, Rogue Pumpkin Patch Ale, Schlafly Pumpkin Ale, UFO Pumpkin, Weyerbacher Imperial Pumpkin",
     "tags": "specialty-beer, spice"
   },
@@ -862,6 +870,7 @@
     "history": "The process of using smoked malts has been adapted by craft brewers to many styles. German brewers have traditionally used smoked malts in Bock, Doppelbock, Weissbier, Munich Dunkel, Schwarzbier, Munich Helles, Pils, and other specialty styles.",
     "characteristicingredients": "Different materials used to smoke malt result in unique flavor and aroma characteristics. Beechwood, or other hardwood (e.g., oak, maple, mesquite, alder, pecan, apple, cherry, other fruitwoods) smoked malts may be used. These may be reminiscent of certain smoked foods (e.g., hickory with ribs, maple with bacon or sausage, and alder with salmon). Evergreen wood should never be used since it adds a medicinal, piney flavor to the malt. Noticeable peatsmoked malt is universally undesirable due to its sharp, piercing phenols and dirt-like earthiness. The remaining ingredients vary with the base style. If smoked malts are combined with other unusual ingredients (e.g., fruits, vegetables, spices, honey) in noticeable quantities, the resulting beer should be entered in the 32B Specialty Smoked Beer.",
     "entryinstructions": "The entrant must specify a Base Style. The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable.",
+    "stylecomparison": "-",
     "commercialexamples": "Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen, Schlenkerla Rauchbier Ur-Bock, O'Fallon Smoked Porter, Spezial Rauchbier Lagerbier",
     "tags": "specialty-beer, smoke"
   },
@@ -877,6 +886,9 @@
     "mouthfeel": "Based on declared beer.",
     "comments": "Intended as a catch-all location for specific beers that are based on unique commercial examples that don't fit existing styles. Past versions of the Style Guidelines included a Belgian Specialty Ale style; this style fits that general purpose, as well as allowing non-Belgian entries of similar intent.",
     "entryinstructions": "The entrant must specify the name of the commercial beer, specifications (vital statistics) for the beer, and either a brief sensory description or a list of ingredients used in making the beer. Without this information, judges who are unfamiliar with the beer will have no basis for comparison.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Orval, La Chouffe",
     "tags": "specialty-beer"
   },
@@ -1056,7 +1068,7 @@
     "history": "A Bavarian specialty originating in Munich, first made by the monks of St. Francis of Paula by the 1700s. Historical versions were less well-attenuated than modern interpretations, thus with higher sweetness and lower alcohol levels. Was called \"liquid bread\" by monks, and consumed during the Lenten fast. Breweries adopted beer names ending in \"-ator\" after a 19th century court ruling that no one but Paulaner was allowed to use the name Salvator. Traditionally dark brown in color; paler examples are a more recent development.",
     "characteristicingredients": "Pils, Vienna, Munich malts. Occasionally dark malt for color adjustment. Traditional German hops. Clean German lager yeast. Decoction mashing is traditional.",
     "stylecomparison": "A stronger, richer, more full-bodied version of either a Dunkles Bock or a Helles Bock. Pale versions will show higher attenuation and less dark fruity character than the darker versions.",
-    "entryinstructions": "The entrant will specify whether the entry is a",
+    "entryinstructions": "The entrant will specify whether the entry is a pale or a dark variant.",
     "ibumin": "16",
     "ibumax": "26",
     "ogmin": "1.072",
@@ -1067,6 +1079,7 @@
     "abvmax": "10.0",
     "srmmin": "6",
     "srmmax": "25",
+    "commercialexamples": "Commercial Examples: Dark Versions – Andechs Doppelbock Dunkel, Ayinger Celebrator, Paulaner Salvator, Spaten Optimator, Tröegs Troegenator, Weihenstephaner Korbinian; Pale Versions – Eggenberg Urbock 23º, Meinel Doppelbock Hell, Plank Bavarian Heller Doppelbock, Riegele Auris 19, Schönbuch Doppelbock Hell, Staffelberg-Bräu Zwergator",
     "tags": "high-strength, amber-color, pale-color, bottom fermented, lagered, central-europe, traditional-style, bockfamily, malty"
   },
   {
@@ -1270,6 +1283,9 @@
     "mouthfeel": "Varies.",
     "comments": "This style cannot represent a well-known commercial beer (otherwise it would be a Commercial Specialty Beer) and cannot fit into any other existing Specialty-Type Beer style (including those within this major category).",
     "entryinstructions": "The entrant must specify the special nature of the experimental beer, including the special ingredients or processes that make it not fit elsewhere in the guidelines. The entrant must provide vital statistics for the beer, and either a brief sensory description or a list of ingredients used in making the beer. Without this information, judges will have no basis for evaluation.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "None",
     "tags": "specialty-beer"
   },
@@ -1312,6 +1328,7 @@
     "mouthfeel": "Medium body, often enhanced by tannins. Low to medium carbonation. Low to medium astringency, often with a prickly acidity. Deceivingly light and crisp on the palate although a somewhat sweet finish is not uncommon.",
     "comments": "The \"wine-like\" observation should not be taken too literally; it may suggest a high-acid French Burgundy to some, but it is clearly not identical. Produced by long aging (up to two years) in large wooden vats (foeders), blending of young and well-aged beer, and variable amounts of sweetening of the final product. A wide range of products are possible depending on the actual blend and whether any sweetening takes place. Acetic flavors may be noted, but not all acidity in this beer is from acetic acid; vinegar is over six times greater in total acidity than this style. Fruited versions should be entered as a 29A Fruit Beer.",
     "history": "An indigenous beer of West Flanders, typified by the products of the Rodenbach brewery, established in 1821. Aging in wooden vats and blending of old and young beers borrowed from the English tradition. Belgian brewers consider Flanders Red and Oud Bruin to be of the same style family, but the distinction was first made when Michael Jackson first defined beer styles, since the flavor profiles are distinctly different. Many modern examples are influenced by the popularity of Rodenbach Grand Cru.",
+    "characteristicingredients": "Vienna or Munich malts, a variety of caramel malts, maize. Low alpha acid continental hops. Sacch, Lacto, and Brett. Aged in oak. Sometimes blended and sweetened (natural or artificial).",
     "stylecomparison": "Less malty-rich than an Oud Bruin, often with more of a fruity-tart and acetic profile.",
     "ibumin": "10",
     "ibumax": "25",
@@ -1365,6 +1382,9 @@
     "mouthfeel": "Varies by base style. Fruit often decreases body, and makes the beer seem lighter on the palate. Some smaller and darker fruits may add a tannic depth, but this astringency should not overwhelm the base beer.",
     "comments": "The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors. The fruit should complement the original style and not overwhelm it. Base style attributes will be different after the addition of fruit; do not expect the beer to taste identical to the unadulterated base style. Fruit Beers based on a Classic Style should be entered in this style, except Lambic -- there is a special style for Fruit Lambic (23F). Fruited sour or mixed fermentation beers without a Classic Style base should be entered in the 28C Wild Specialty Beer. Fruited versions of sour Classic Style beers (e.g., Flanders Red, Oud Bruin, Gose, Berliner Weisse) should be entered in 29A Fruit Beer. Fruit-based versions of Classic Styles where spices are an inherent part of the Classic Style's definition (e.g., Witbier, Gose) do not count as a Spice Beer for entering purposes.",
     "entryinstructions": "The entrant must specify the type(s) of fruit used. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "21st Amendment Hell or High Watermelon, Anderson Valley Blood Orange Gose, Avery Liliko'i Kepolo, Ballast Point Grapefruit Sculpin, Bell's Cherry Stout, Founders Rübæus",
     "tags": "specialty-beer, fruit"
   },
@@ -1408,6 +1428,9 @@
     "mouthfeel": "Varies by base style. Fruit often decreases body, and makes the beer seem lighter on the palate. Some smaller and darker fruits may add a tannic depth, but this astringency should not overwhelm the base beer. SHVs may increase or decrease body. Some SHVs may add a bit of astringency, although a \"raw\" spice character is undesirable.",
     "comments": "The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors. The specialty ingredients should complement the original style and not overwhelm it. Base style attributes will be different after the addition of fruit and spices; do not expect the beer to taste identical to the unadulterated base style.",
     "entryinstructions": "The entrant must specify the type of fruit, and the type of SHV used; individual SHV ingredients do not need to be specified if a well-known blend of spices is used (e.g., apple pie spice). Entrant must specify a description of the beer, either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Golden Road Spicy Mango Cart, Kona Island Colada Cream Ale, New Glarus Blueberry Cocoa Stout, Sun King Orange Vanilla Sunlight",
     "tags": "specialty-beer, fruit, spice"
   },
@@ -1643,6 +1666,7 @@
     "characteristicingredients": "Same as base styles. Traditionally naturally carbonated. Dry-hopping is not a traditional German brewing method, but some modern pale examples use this technique -- which is allowable in this style as long as it is balanced. Traditionally lagered and unfiltered, these beers were never meant to be packaged for external sale.",
     "stylecomparison": "Richer or more robust than the base style, possibly with a bit more body and mouthfeel. Can be slightly cloudier than base beer.",
     "entryinstructions": "The entrant must specify the base style: German Pils, Munich Helles, Märzen, or Munich Dunkel.",
+    "commercialexamples": "Märzen – Faust Kräusen Naturtrüb, Mahrs Bräu aU Ungespundet Kellerbier; Dunkel – Engel Kellerbier Dunkel, Paulaner Ur-Dunkel Naturtrüb; Helles – ABK Kellerbier Naturtrüb, Löwenbräu 1747 Original; Pils – Giesinger Feines Pilschen, Ketterer Zwickel-Pils",
     "tags": "standard-strength, bottom-fermented, central-europe, traditional-style, balanced"
   },
   {
@@ -1885,6 +1909,7 @@
     "abvmax": "12.0",
     "srmmin": "30",
     "srmmax": "40",
+    "commercialexamples": "American – Bell’s Expedition Stout, Great Divide Yeti Imperial Stout, North Coast Old Rasputin Imperial Stout, Oskar Blues Ten Fidy, Sierra Nevada Narwhal Imperial Stout; English – 2SP Brewing Co The Russian, Courage Imperial Russian Stout, Le Coq Imperial Extra Double Stout, Samuel Smith Imperial Stout, Thornbridge Saint Petersburg",
     "tags": "very-high-strength, dark-color, top-fermented, britishisles, north-america, traditional-style, craft-style, stout-family, malty, bitter, roasty"
   },
   {
@@ -2161,6 +2186,9 @@
     "mouthfeel": "Based on the declared Base Styles.",
     "comments": "See preamble for intent.",
     "entryinstructions": "The entrant must specify the Base Style or Styles being used, and any special ingredients, processes, or variations involved. The entrant may provide an additional description of the sensory profile of the beer or the vital statistics of the resulting beer.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Birrificio Italiano Tipopils, Firestone Walker Pivo Pils, Jack's Abby Hoponius Union, Ommegang Helles Superior",
     "tags": "specialty-beer"
   },
@@ -2501,6 +2529,9 @@
     "mouthfeel": "Same as Fruit Beer, although depending on the type of sugar added, could increase or decrease the body.",
     "comments": "If the additional fermentables or processes do not add a distinguishable character to the beer, enter it as one of the other (non-Specialty) Fruit Beer styles and omit a description of the extra ingredients or processes.",
     "entryinstructions": "The entrant must specify the type of fruit used. The entrant must specify the type of additional ingredient (per the introduction) or special process employed. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "The Bruery Goses are Red, New Planet Raspberry Ale, Tired Hands Strawberry Milkshake IPA, WeldWerks Piña Colada IPA",
     "tags": "specialty-beer, fruit"
   },
@@ -2547,6 +2578,8 @@
     "comments": "Judges should evaluate these beers mostly on the overall balance, and how well the smoke character enhances the base beer and any specialty ingredients.",
     "characteristicingredients": "Same as 32A Classic Style Smoked Beer with the possible addition of specialty ingredients (e.g., fruits, spices, vegetables, honey) in noticeable quantities.",
     "entryinstructions": "The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable. The entrant must specify the additional ingredients or processes that make this a specialty smoked beer. Entrant must specify a description of the beer, identifying either a base style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Fat Head's Up in Smoke, Ommegang Bourbon Barrel Vanilla Smoked Porter",
     "tags": "specialty-beer, smoke"
   },
@@ -2562,6 +2595,9 @@
     "mouthfeel": "Same as SHV Beer, although depending on the type of sugar added, could increase or decrease the body.",
     "comments": "If the additional fermentables or processes do not add a distinguishable character to the beer, enter it as one of the other (non-Specialty) Spiced Beer styles and omit a description of the extra ingredients or processes.",
     "entryinstructions": "The entrant must specify the type of SHVs used, but individual ingredients do not need to be specified if a well-known spice blend is used (e.g., apple pie spice, curry powder, chili powder). The entrant must specify the type of additional ingredient (per the introduction) or special process employed. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "New Belgium Honey Orange Tripel, Westbrook It's Tiki Time",
     "tags": "specialty-beer, spice"
   },
@@ -2579,6 +2615,7 @@
     "comments": "Success in this style depends on how well the wood and alcohol character supports and enhances the base beer, and how well integrated they are with the overall flavor profile. Age character is allowable, but excessive oxidation or sourness is a fault. Special wood-aged wild ales should be entered in the 28C Wild Specialty Beer.",
     "characteristicingredients": "Varies with base style. Aged in wooden casks or barrels previously used to store alcohol (e.g., whiskey, bourbon, rum, gin, tequila, port, sherry, Madeira, wine). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.",
     "entryinstructions": "The entrant must specify the additional alcohol character, with information about the barrel if relevant to the finished flavor profile. If an unusual wood or ingredient has been used, the entrant must supply a brief description of the sensory aspects the ingredients add to the beer. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "stylecomparison": "-",
     "commercialexamples": "AleSmith Barrel-Aged Old Numbskull, Founders Kentucky Breakfast Stout, Firestone Walker Parabola, Goose Island Bourbon County Stout, Great Divide Barrel Aged Yeti, The Lost Abbey Angel's Share Ale",
     "tags": "specialty-beer, wood"
   },
@@ -2594,6 +2631,9 @@
     "mouthfeel": "Varies by base style. SHVs may increase or decrease body. Some SHVs may add a bit of astringency, although a \"raw\" spice character is undesirable.",
     "comments": "The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors. The SHVs should complement the original style and not overwhelm it. Base style attributes will be different after the addition of SHVs; do not expect the beer to taste identical to the unadulterated base style.",
     "entryinstructions": "The entrant must specify the type of spices, herbs, or vegetables used, but individual ingredients do not need to be specified if a well-known spice blend is used (e.g., apple pie spice, curry powder, chili powder). Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "history": "-",
+    "characteristicingredients": "-",
+    "stylecomparison": "-",
     "commercialexamples": "Alesmith Speedway Stout, Elysian Avatar Jasmine IPA, Founders Breakfast Stout, Rogue Yellow Snow Pilsner, Traquair Jacobite Ale, Young's Double Chocolate Stout",
     "tags": "specialty-beer, spice"
   },
@@ -2812,6 +2852,7 @@
     "abvmax": "9.0",
     "srmmin": "6",
     "srmmax": "25",
+    "commercialexamples": "Dark – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock, Schalchner Weisser Bock, Schneider Weisse Aventinus; Pale –Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell, Weihenstephaner Vitus",
     "tags": "high-strength, amber-color, pale-color, top-fermented, central-europe, traditional-style, wheat-beer-family, malty"
   },
   {
@@ -2872,6 +2913,7 @@
     "comments": "Using the sensory profile of products that suggest the holiday season, such as Christmas cookies, gingerbread, English-type Christmas pudding, rum cakes, eggnog, evergreen trees, potpourri, or mulling spices, balanced with a supportive, often malty, warming, and darker base beer. The description of the beer is critical for evaluation; judges should think more about the declared concept than trying to detect each individual ingredient. Balance, drinkability, and execution of the theme are the most important deciding factors.",
     "history": "The winter holiday season is a traditional time when old friends get together, where beer of a somewhat higher alcohol content and richness is served. Many breweries offer seasonal products that may be darker, stronger, spiced, or otherwise more characterful than their year-round beers. Spiced versions are an American or Belgian tradition, since English or German breweries traditionally do not use spices in their beer. Many American craft examples were inspired by Anchor Our Special Ale, first produced in 1975.",
     "characteristicingredients": "Spices are required, and often include those evocative of the Christmas season (e.g., allspice, nutmeg, cinnamon, cloves, ginger) but any combination is possible and creativity is encouraged. Fruit peel (e.g., oranges, lemon) may be used, as may subtle additions of other fruits (often dried or dark fruit). Flavorful adjuncts are often used (e.g., molasses, treacle, invert sugar, brown sugar, honey, maple syrup). Usually ales, although strong dark lagers exist.",
+    "stylecomparison": "-",
     "entryinstructions": "The entrant must specify the type of spices, sugars, fruits, or additional fermentables used; individual ingredients do not need to be specified if a wellknown blend of spices is used (e.g., mulling spice). Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
     "commercialexamples": "Anchor Christmas Ale, Great Lakes Christmas Ale, Harpoon Winter Warmer, Rogue Santa's Private Reserve, Schlafly Christmas Ale, Troeg's The Mad Elf",
     "tags": "specialty-beer, spice"
@@ -2917,6 +2959,7 @@
     "history": "A traditional production method that is rarely used by major breweries, and usually only with specialty products. More popular with modern craft breweries looking for new, distinctive products. Oak cask and barrels are traditional, although other woods are becoming more popular.",
     "characteristicingredients": "Varies with base style. Aged in wooden casks or barrels, or using wood-based additives (e.g., chips, staves, spirals, cubes). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.",
     "entryinstructions": "The entrant must specify the type of wood used and the toast or char level (if used). If an unusual varietal wood is used, the entrant must supply a brief description of the sensory aspects the wood adds to beer. Entrant must specify a description of the beer, identifying either a Base Style or the ingredients, specs, or target character of the beer. A general description of the special nature of the beer can cover all the required items.",
+    "stylecomparison": "-",
     "commercialexamples": "Bush Prestige, Cigar City Spanish Cedar Jai Alai, Firestone Walker Double Barrel Ale, Midnight Sun Arctic Devil, Petrus Aged Pale, Samuel Smith Yorkshire Stingo",
     "tags": "specialty-beer, wood"
   }
